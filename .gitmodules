@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/xala3pa/xala3pa.github.io.git
