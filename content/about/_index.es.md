@@ -12,12 +12,12 @@ El objetivo con mi primer blog era usarlo como una herramienta más de aprendiza
 
 En este caso quiero que este Blog sea otra herramienta, pero orientada a compartir experiencias personales principalmente relacionadas con mi trabajo y mi aprendizaje.
 
-En los últimos 4 años he transitado un camino desde desarrollador, pasando por tech lead, dev manager hasta el día de hoy. Haciendo un ejercicio de honestidad os digo que no tengo claro cómo definir mi posición actual más allá de lo que dice mi rol en la compañía, VP of engineering.
+En los últimos 5 años he transitado un camino desde desarrollador, pasando por tech lead, dev manager hasta el día de hoy. Haciendo un ejercicio de honestidad os digo que no tengo claro cómo definir mi posición actual más allá de lo que dice mi rol en la compañía, VP of engineering.
 
 Mi objetivo con este blog es contar cómo ha sido transitar esta travesía en el desierto. No ha sido, ni está siendo un camino fácil de recorrer. En muchas ocasiones un cambio de rol supone pasar a un estado de indefinición, de inseguridad y de medios.
 
 En mi caso he tenido la suerte los últimos años de trabajar para una empresa americana donde existe un apoyo reglado por parte de la empresa para entender la nueva realidad que supone un cambio de rol como los que os comentaba, pero incluso en estas circunstancias no ha sido un camino sencillo de transitar.
 
-Todavía no veo la meta al final de camino, solo un camino árido en muchos momentos, pero un camino que estoy recorriendo con gusto, un camino que me lleva fuera de mi zona de confort constantemente, un camino donde lo importante es el aprendizaje del recorrido, un camino que quiero compartir con vosotros. Me daré por satisfecho si a una persona le ayudo contando mis experiencias, si se siente identificado con mi camino o si quiere compartir el suyo y lo recorremos juntos.
+Todavía no veo la meta al final del camino, solo un camino árido en muchos momentos, pero un camino que estoy recorriendo con gusto, un camino que me lleva fuera de mi zona de confort constantemente, un camino donde lo importante es el aprendizaje del recorrido, un camino que quiero compartir con vosotros. Me daré por satisfecho si a una persona le ayudo contando mis experiencias, si se siente identificado con mi camino o si quiere compartir el suyo y lo recorremos juntos.
 
 Muchas gracias por leerme...

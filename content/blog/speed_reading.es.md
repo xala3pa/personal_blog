@@ -1,7 +1,7 @@
 +++
 author = "Álvaro Salazar"
 categories = ["learning"]
-date = "2016-01-22"
+date = "2019-09-22"
 description = "Como optimizar tu tiempo de lectura"
 featured = "eli-francis-_M-DrbiNFa4-unsplash.jpg"
 featuredalt = "Reading Time"

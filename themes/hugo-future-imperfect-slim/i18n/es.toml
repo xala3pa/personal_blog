@@ -1,5 +1,5 @@
 [date_format]
-  other = "2 de Enero, 2006"
+  other = "January 2, 2006"
 [postreadingtime]
   one = "1 minuto"
   other = "{{ .Count }} minutos"
