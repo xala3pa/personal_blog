@@ -25,7 +25,7 @@ alt="Félix López - Engineering Manager vs Tech Lead" width="" height="" border
 
 ### ¿Qué es ser un manager?
 
-Creo que es un acierto depor parte de Félix comenzar la charla haciendo hincapié en que no hay una definición standard de lo que es ser un **manager** y ésta puede diferir mucho de una empresa a otra. El contexto, tamaño y madurez de la empresa, pueden ser determinantes a la hora de encontrar una definición.
+Creo que es un acierto por parte de Félix comenzar la charla haciendo hincapié en que no hay una definición standard de lo que es ser un **manager** y ésta puede diferir mucho de una empresa a otra. El contexto, tamaño y madurez de la empresa, pueden ser determinantes a la hora de encontrar una definición.
 
 Por lo tanto ser **Engineering Manager** puede significar cosas diferente dependiendo de la empresa en la que trabajes.
 Lo que es independiente de la empresa y aplica a cualquier definición, es que un rol de gestión requiere de unos skills concretos en los que hay que formarse.
@@ -46,8 +46,8 @@ Uno de las partes más divertidas de la charla es cuando Félix introduce difere
 **El contra-ejemplo:**
 
 * Uno de los trabajos más importantes de un buen manager es **saber escuchar**, escuchar con el objetivo de poder anticipar conflictos, resolver problemas y mejorar la confianza con su equipo.
-* Así mismo un buen manager tiene que ser un buen observador, capaz de ver como lo esta haciendo su equipo para poder corregir posibles problemas, capaz de identificar cambios de actitud en el equipo y actuar a tiempo.
-* Para que el equipo entienda que el trabajo de un manager es cuidar del equipo, es vital mostrarse siempre disponible, que el equipo entienda que la prioridad como manager es su propio equipo.
+* Así mismo un buen manager tiene que ser un **buen observador**, capaz de ver como lo esta haciendo su equipo para poder corregir posibles problemas, capaz de identificar cambios de actitud en el equipo y actuar a tiempo.
+* Para que el equipo entienda que el trabajo de un manager es **cuidar del equipo**, es vital mostrarse siempre disponible, que el equipo entienda que la prioridad como manager es su propio equipo.
 
 **Herramientas:**
 
@@ -67,7 +67,7 @@ El ausente, es uno de los managers que nos encontramos con mayor frecuencia hoy 
 Es ocasiones esto viene motivado por una falta de claridad o ausencia en la definición del rol y las tareas a realizar.
 Siendo honesto éste es el tipo de manager en el que más veces me he visto reflejado. En mi camnino desde desarrollador hasta manager he pasado por mucho estados de indefinición que me han hecho caer en este tipo de manager. 
 
-Uno de los skills que en mi caso más me han ayudado a corregir este tipo de comportamientos ,ha sido tener conciencia de uno mismo, conocido como **self awareness**, para poder ir corrigiendo.
+Uno de los skills que en mi caso más me han ayudado a corregir este tipo de comportamientos, ha sido tener conciencia de uno mismo, conocido como **self awareness**, para poder ir corrigiendo.
 
 Os dejo un link si quereis profundizar un poco más sobre este importante skill.
 
@@ -86,12 +86,16 @@ Liderar, guiar se traduce en la mayoría de los casos en hacer las preguntas cor
 
 Una de la herramientas más valiosas de un manager es: **dar feedback**
 
-Como Félix aclara en su charla, el Feedback simpre deberá ser constructivo, en caso contrario será una crítica y como managers tenemos que evitar siempre caer en este tipo de situaciones.
+Como Félix aclara en su charla, el feedback simpre deberá ser constructivo, en caso contrario será una crítica y como managers tenemos que evitar siempre caer en este tipo de situaciones.
 
 Más adelante Félix introduce un framework sobre como estructurar la conversación a la hora de dar feedback. Luego comentaremos más detalles sobre el framework en cuestión. De momento os dejo algún Link con consejos sobre como dar un mejor feedback:
 
 * [How to give feedback more effectively](https://qz.com/work/1238966/how-to-give-feedback-more-effectively/)
 * [Keep calm and give constructive feedback](https://blog.impraise.com/360-feedback/keep-calm-and-give-constructive-feedback)
+
+Os dejo otro link, que me ha pasado Félix que merece mucho la pena echarle una lectura:
+
+* [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
 ### **"Pues lo que hay"**
 
@@ -119,7 +123,7 @@ Es aquel manager que cuya manera de motivar es por medio del miedo. Tienen un co
 **El contra-ejemplo:**
 
 El trabajo de un manager tiene que ser crear entornos creativos, entornos con autonomía y ownership, entornos donde se fomente la toma de decisiones en lugar de dirigir. Potenciar el **"bottom-up"** frente al **"top-down"**.
-El sistema tradicional de liderazgo ("top-down") crea followers, gente que no se cuestiona las decisiones. Es importante para la empresa que su gente tenga mucho espiritu crítico y un foco claro.
+El sistema tradicional de liderazgo ("top-down") crea followers, gente que no se cuestiona las decisiones. Es importante para la empresa que su gente tenga mucho **espiritu crítico y un foco claro**.
 
 Félix hace referencia en la charla a un libro de David Marquet, cuya lectura al igual que hace Félix en su charla la recomiendo a todo manager:
 
@@ -164,7 +168,7 @@ Os dejo por aquí algún enlace, con consejos para preparar vuestro primer 121:
 ### Framework de Competencias (Ladder)
 
 Podríamos decir que se trata de una descripción de las tareas y skills para cada rol dentro de la empresa.
-Es una herramnienta para crear estructura y claridad en el proceso de promoción de una empresa.
+Es una herramienta para crear estructura y claridad en el proceso de promoción de una empresa.
 
 Os dejo algunos links con ladders públicos de alguna empresa que me han resultado interesantes:
 
@@ -177,7 +181,7 @@ Os dejo algunos links con ladders públicos de alguna empresa que me han resulta
 Una de la formas de saber si estas haciendo bien tu trabajo como manager es ver que la gente de tu equipo esta creciendo y se está desarrollando.
 Carrer conversations, te ayuda como manager a entender los objetivos de desarrollo personal que persigue la gente de tu equipo y te ayuda a articular los pasos necesarios para poder ayudarles a alcanzarlos.
 
-Os dejo opr aquí algún link sobre el tema:
+Os dejo por aquí algún link sobre el tema:
 
 * [The problem with carrer conversations today](https://www.radicalcandor.com/blog/problem-career-conversations/)
 * [How to have career conversations with your employees](https://medium.com/fellowapp/want-to-be-a-great-manager-have-career-conversations-with-your-team-5e432dcdce86)
@@ -187,7 +191,7 @@ Os dejo opr aquí algún link sobre el tema:
 El performance review, básicamente consiste en una conversación formal para evaluar el desempeño de las personas que tenemos como parte del equipo, identificando las fortalezas y debilidades de cada persona. Es un buen momento para ofrecer feedback y establecer objetivos futuros.
 
 Una de las cosas que comenta Félix y que para mí es crítica es que un buen manager nunca tiene sorpresas en el performance review.
-Todavía es muy común hoy en día ver empresas en las que el performance review consiste en un conversación a el final del año, y es en estos casos donde como managers nos podemos llevar muchas sorpresas. De ahí que en mi caso le doy mucha importancia a realizar evaluación continua.
+Todavía es muy común hoy en día ver empresas en las que el performance review consiste en un conversación al final del año, y es en estos casos donde como managers nos podemos llevar muchas sorpresas. De ahí que en mi caso le doy mucha importancia a realizar evaluación continua.
 
 Links relacionados con el performance review:
 
@@ -202,20 +206,22 @@ Links relacionados con el performance review:
 ### S.B.I. Feedback Model
 
 **S.B.I. - Situation-Behavior-Impact Model** 
-Esa una estupenda herramienta que nos ayuda a estructurar nuestro pensamiento y la conversación a la hora de dar feedback. Esta demostrado que S.B.I. ayuda a reducir la ansidad a la hora del dar el feedback y ayuda a posicionar a la persona que lo recibe de forma menos defensiva.
+
+Es una estupenda herramienta que nos ayuda a estructurar nuestro pensamiento y la conversación a la hora de dar feedback. Esta demostrado que S.B.I. ayuda a reducir la ansidad a la hora del dar el feedback y ayuda a posicionar a la persona que lo recibe de forma menos defensiva.
 
 Link con más detalles sobre SBI:
 
 * [Use the SBI Feedback Model to Understand Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-and-impact/)
 
 
-Una variación del modelo anterior es SBI-BI, donde se ofrece un comportamiento alternativo, junto con el impacto que se espera del nuevo comportamiento.
+Una variación del modelo anterior es **SBI-BI**, donde se ofrece un comportamiento alternativo, junto con el impacto que se espera del nuevo comportamiento.
 
-[SBI-BI Model](https://teamsandleadership.net/sites/default/files/Situation-behaviour-impact%20%28SBI%29%20feedback%20model.pdf)
+* [SBI-BI Model](https://teamsandleadership.net/sites/default/files/Situation-behaviour-impact%20%28SBI%29%20feedback%20model.pdf)
 
 ### GROW
 
 Herramienta esencial para coaching. Ayuda a estructurar la conversación.
+
 Importante comentar en este punto que el objetivo de el coaching no es enseñar, sino hacer las preguntas adecuadas para que la persona se "enseñe" así mismo.
 
 ![Thew GROW coaching model](https://lh3.googleusercontent.com/AYK08GFh71RZlhfERZpnGMLuRbMrADE--R15GojiYC6g8j-hJGPAgXKzklzQ4KWfklREWWOls1_070F3QsfVo4Sk=s0 "Thew GROW coaching model")
@@ -278,19 +284,25 @@ Como managers tenemos que reconocer cuando no sabemos algo, éste es el primer p
 
 ### **"Pues se tiene que poder"**
 
-Es muy importante como líder aprender a decir que *NO*, es crítico aprender como y cuando decir *NO*
+Es muy importante como líder aprender a decir que **NO**, es crítico aprender como y cuando decir **NO**
 En mi caso y siendo honesto es todavía una tarea pendiente en la que estoy trabajando. 
 
-Félix comenta en la charla el Triángulo de Oro, no estoy seguro si hace en realidad al **Triángulo de hierro**, os dejo un link para profundizar más en el tema:
+Félix comenta en la charla sobre el **Triángulo de Oro** o  **Triángulo de hierro**, os dejo un link para profundizar más en el tema y el enlace al video al que hace referencia en la charla (gracias Félix por link):
 
 * [Triángulo de hierro](https://qualityobjects.com/agile-y-el-triangulo-de-hierro/)
+
+* Scrum con Medinilla y el "¡pos' se tiene que poder!"
+
+<a href="https://www.youtube.com/watch?v=Ew_ZZE2_kWA&feature=youtu.be" target="_blank"><img src="https://img.youtube.com/vi/Ew_ZZE2_kWA/mqdefault.jpg" 
+alt="Medinilla - Triángulo de Oro o Triángulo de Hierro" width="" height="" border="20" /></a>
+
 
 ### **"Rey/Reina del micromanagement"**
 
 Unas de sus grandes virtudes es pasar marrones a sus compañeros.
 
 Una de las tareas más importante de un buen manager es generar confianza, pero a su vez tener confianza en el propio equipo, empoderar al equipo.
-Hay que dejar que la gente del equipo pueda tomar sus propia decisiones y pueda equivocarse, es tarea del manager que el impacto del error no sea muy grande.
+Hay que dejar que la gente del equipo pueda tomar sus propias decisiones y pueda equivocarse, es tarea del manager que el impacto del error no sea muy grande.
 En muchas empresas con un entorno de trabajo sano se "premia" el error, ya que está demostrado que es una de la mejoras formas de apredizaje.
 
 
