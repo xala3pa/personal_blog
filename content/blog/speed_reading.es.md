@@ -15,17 +15,17 @@ type = "post"
 
 # **Speed Reading**
 
-Como comentaba en un post anterior unos de los objetivos del año era poner en práctica diferentes técnicas de estudio. Actualmente mi principal fuente de recursos formativos procede de la lectura , ya sea por medio de libros o a través de la lectura de foros, post, papers en internet.
+Como comentaba en un post anterior, uno de los objetivos del año era poner en práctica diferentes técnicas de estudio. Actualmente mi principal fuente de recursos formativos procede de la lectura, ya sea por medio de libros o a través de la lectura de foros, posts o papers en internet.
 
-Si como comentaba anteriormente la idea es el aprovechamiento del tiempo dedicado al estudio, la pregunta es obvia: ¿Cómo puedo mejorar mi velocidad de lectura?.
+Si como comentaba anteriormente la idea es el aprovechamiento del tiempo dedicado al estudio, la pregunta es obvia: ¿cómo puedo mejorar mi velocidad de lectura?
 
-No se trata únicamente de mejorar el ritmo de lectura , si no que ésta venga acompañada de un alto nivel de compresión.
+No se trata únicamente de mejorar el ritmo de lectura, sino que ésta venga acompañada de un alto nivel de comprensión.
 
-Aunque esto para una persona aficionada a la lectura pueda parecer la panacea, estudios recientes han demostrado la poca efectividad de la técnicas actuales de lectura rápida.
+Aunque esto para una persona aficionada a la lectura pueda parecer la panacea, estudios recientes han demostrado la poca efectividad de las técnicas actuales de lectura rápida.
 
- Estos estudios vienen a decir básicamente que lo que realmente limita nuestra habilidad para procesar el texto es nuestra capacidad para reconocer la palabras y comprender el texto a diferencia de la técnicas de lectura rápida que se fundamentan en el número de palabras que nuestros ojos son capaces de abarcar en cada momento.
+Estos estudios vienen a decir básicamente que lo que realmente limita nuestra habilidad para procesar el texto es nuestra capacidad para reconocer las palabras y comprender el texto, a diferencia de las técnicas de lectura rápida que se fundamentan en el número de palabras que nuestros ojos son capaces de abarcar en cada momento.
 
-El estudio concluye afirmando que la única técnica que podemos afirmar que verdadera funciona es: **_la práctica_**.
+El estudio concluye afirmando que la única técnica que podemos afirmar que verdaderamente funciona es: **_la práctica_**.
 
 
 ![Book image](../images/ben-white-1zA_mC846yU-unsplash.jpg)
@@ -35,26 +35,26 @@ A pesar de lo que os acabo de contar, no he renunciado a probar algunas de las t
 
 ---
 
-Algunas de la técnicas que estoy utilizando en la actualidad son:
+Algunas de las técnicas que estoy utilizando en la actualidad son:
 
 ### **Evitar la sub-vocalización**
 
-La **sub-vocalización** consiste simplemente en **repetir mentalmente cada palabra según vamos leyendo**. Está considera como uno de los principales “stoppers” a la hora de mejorar nuestra velocidad de lectura.
+La **sub-vocalización** consiste simplemente en **repetir mentalmente cada palabra según vamos leyendo**. Está considerada como uno de los principales “stoppers” a la hora de mejorar nuestra velocidad de lectura.
 
 Para evitar sub-vocalizar algunas de la técnicas recomendadas son:
 
 
 *   Practicar la lectura mientras masticamos chicle.
 *   Repetir una sílaba constantemente mientras leemos: la, la, la…
-*   Forzarnos a leer más rápido, lo cual en teoría aumentara nuestro foco en la lectura.
+*   Forzarnos a leer más rápido, lo cual en teoría aumentará nuestro foco en la lectura.
 
 
-Personalmente siguiendo esta técnica, consigo mejorar la velocidad de lectura, pero a costa de una peor compresión del texto. Aunque esto parece ser el efecto colateral cuando empiezas con esta técnica, de modo que seguiré practicando.
+Personalmente siguiendo esta técnica, consigo mejorar la velocidad de lectura, pero a costa de una peor comprensión del texto. Aunque esto parece ser el efecto colateral cuando empiezas con esta técnica, de modo que seguiré practicando.
 
 
 ### **Evitar la regresión**
 
-La **regresión** es el proceso por el cual en ocasiones incluso de forma inconsciente **releemos partes del texto**, haciéndonos perder el “flow” de lectura y con el ello perdiendo el “focus” en el texto, disminuyendo nuestra compresión.
+La **regresión** es el proceso por el cual en ocasiones incluso de forma inconsciente **releemos partes del texto**, haciéndonos perder el “flow” de lectura y con ello perdiendo el “focus” en el texto, disminuyendo nuestra comprensión.
 
 Para evitar la **regresión** se recomienda:
 
@@ -72,7 +72,7 @@ Debido a que durante el proceso de aprendizaje de la lectura, aprendemos a leer 
 
 El ser humano tiene la capacidad de leer agrupando palabras de modo que con un poco de práctica podremos mejorar considerablemente nuestra experiencia leyendo.
 
-Es decir podríamos evitar fijaciones en cada palabra:
+Es decir, podríamos evitar fijaciones en cada palabra:
 
 Aprendiendo **—** métodos **—** de **—** lectura **—** rápida.
 
@@ -88,4 +88,4 @@ Para forzarnos a realizar menos fijaciones podemos utilizar la cuartilla que usa
 
 ---
 
-Como os contaba al inicio del post, estudios recientes han puesto en duda la efectividad de estas técnicas para la mejora de la velocidad de lectura, a pesar de ello es algo que quiero comprobar por mi mismo de modo que continuaré aplicando esta técnicas midiendo el impacto que puedan tener sobre mi lectura, publicando en un post futuro los resultados.
+Como os contaba al inicio del post, estudios recientes han puesto en duda la efectividad de estas técnicas para la mejora de la velocidad de lectura, a pesar de ello es algo que quiero comprobar por mi mismo de modo que continuaré aplicando estas técnicas midiendo el impacto que puedan tener sobre mi lectura, publicando en un post futuro los resultados.
