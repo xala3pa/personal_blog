@@ -287,7 +287,7 @@ Como managers tenemos que reconocer cuando no sabemos algo, éste es el primer p
 Es muy importante como líder aprender a decir que **NO**, es crítico aprender cómo y cuándo decir **NO**. 
 En mi caso y siendo honesto, es todavía una tarea pendiente en la que estoy trabajando. 
 
-Félix comenta en la charla sobre el **Triángulo de Oro** o  **Triángulo de hierro**, os dejo un link para profundizar más en el tema y el enlace al video al que hace referencia en la charla (gracias Félix por link):
+Félix comenta en la charla sobre el **Triángulo de Oro** o  **Triángulo de hierro**, os dejo un link para profundizar más en el tema y el enlace al video al que hace referencia en la charla (gracias Félix por el link):
 
 * [Triángulo de hierro](https://qualityobjects.com/agile-y-el-triangulo-de-hierro/)
 
