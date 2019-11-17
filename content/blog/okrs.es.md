@@ -43,9 +43,13 @@ Voy empezar la serie de posts con el framework que más uso a día de hoy, **OKR
 
 Aunque he oido en varias ocasiones que los OKRs fueron creados por Google, la realidad es que fueron concebidos durante los años 70 por **Andy Grove** cuando era **CEO de Intel**, como una evolución del proceso conocido por: **Management by Objectives** (MBO).
 
-Los OKRs, nacieron como parte del plan de Intel para ganar la guerra de microprocesadores en la que se había embarcado contra Motorola. Los OKRS ayudaron a **establecer las prioridades** y a **alinear los objetivos **de Intel hacia un objetivo común.
+Los OKRs, nacieron como parte del plan de Intel para ganar la guerra de microprocesadores en la que se había embarcado contra Motorola. Los OKRS ayudaron a **establecer las prioridades** y a **alinear los objetivos** de Intel hacia un objetivo común.
 
 Fué años después, en 1999 cuando **John Doerr** se unió a Google como inversor introduciendo el concepto de OKR y consiguiendo a través de una simple idea como eran los OKRs impulsar el crecimiento de Google **10x** año a año.
+
+Si quereis saber un poco más sobre la historia de los OKRs y empresas que lo han venido usando con éxito, os dejo como recomendación el libro de John Doerr:
+
+* <a href="https://www.whatmatters.com/" target="_blank">Measure What Matters</a>
 
 
 ## ¿Qué son los OKRs?
@@ -155,5 +159,19 @@ Para acabar, suelo decir que la calidad en la definición de los OKRs sueles est
 ---
 
 Muchas gracias por llegar hasta aquí, si te ha resultado útil no te olvides de compartirlo para que le pueda llegar a más gente. 
+
+
+**Referencias:**
+
+* https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
+* https://www.happierco.com/blog/okrs-introduction/
+* https://weekdone.com/resources/objectives-key-results
+* https://medium.com/startup-tools/okrs-5afdc298bc28
+* https://medium.com/happierco-blog/errors-to-avoid-in-okrs-9c3f68922857
+
+Como curiosidad os dejo unas slides sobre los OKRs explicados con personajes de star wars:
+
+* https://www.slideshare.net/AndrewCedotal/okrs-explained-with-star-wars
+
 
 <BR>
