@@ -21,13 +21,13 @@ Hace unos días compartía un Tweet, donde comentaba que después de un tiempo u
 
 Quiero aprovechar este post para introducir la herramienta a todas aquellas personas que todavía no la conocen o no se han decidido a darle una oportunidad y contaros algunos de los usos que le doy a día de hoy.
 
-Después de un tiempo de uso ha comenzado a **sustituir a muchas de las herramientas** que usaba con cierta frecuencia para organizarme, herramientas como Evernote, Pocket, Trello, Keep,  y en algunos casos incluso a Google docs y Slack.
+Después de un tiempo de uso ha comenzado a **sustituir a muchas de las herramientas** que usaba con cierta frecuencia para organizarme, herramientas como Evernote, Pocket, Trello, Keep, y en algunos casos incluso a Google docs y Slack.
 
 ## ¿Qué es Notion?
 
-Notion se auto define como un **“all-in-one workspace”**, una herramienta donde planificar, escribir, colaborar y organizarse.
+Notion se autodefine como un **“all-in-one workspace”**, una herramienta donde planificar, escribir, colaborar y organizarse.
 
-En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio de Notion muchas de las herramientas que utilizo para organizarme en mi día a día. Poder tener flujos de trabajo soportados completamente en un única herramienta, ha supuesto en mi caso un incremento de productividad y sobre todo de foco.
+En mi caso como os comentaba, he dejado de usar de forma paulatina, en beneficio de Notion, muchas de las herramientas que utilizo para organizarme en mi día a día. Poder tener flujos de trabajo soportados completamente en una única herramienta, ha supuesto en mi caso un incremento de productividad y sobre todo de foco.
 
 ## Conceptos básicos 
 
@@ -41,26 +41,26 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
     <img src="../images/Workspace-switcher.png" alt="workspace switcher">
 </p>
 
-*   Dentro de un workspace aquellas páginas compartidas de forma específica con alguno de los miembros del workspace se presentarán en el área **Shared**. El resto de miembros del workspace no tendrán acceso dichas páginas.
+*   Dentro de un workspace aquellas páginas compartidas de forma específica con alguno de los miembros del workspace se presentarán en el área **Shared**. El resto de miembros del workspace no tendrán acceso a dichas páginas.
 
 ![Shared](../images/shared.png "Shared")
 
-*   Así mismo dentro de un workspace contamos con un área **Privada**, donde podremos guardar nuestras páginas donde únicamente nosotros tendremos acceso.
+*   Así mismo, dentro de un workspace contamos con un área **Privada**, donde podremos guardar nuestras páginas donde únicamente nosotros tendremos acceso.
 
 ![Private Space](../images/private-space.png "Private Space")
 			
 ### Página
 
-*   Un página en Notion es un **Canvas** limpio dentro de un workspace, donde podemos añadir el contenido que queramos.
+*   Una página en Notion es un **Canvas** limpio dentro de un workspace, donde podemos añadir el contenido que queramos.
 *   Las páginas se pueden anidar creando una jerarquía.
 	
 ![Pages](../images/pages.png "Pages")
 
-*   Podemos compartir la visibilidad de un página. Hablaremos más adelante sobre cómo compartir y añadir colaboradores a las páginas y workspaces.
+*   Podemos compartir la visibilidad de una página. Hablaremos más adelante sobre cómo compartir y añadir colaboradores a las páginas y workspaces.
 
 ### Bloques
 
-*   Podríamos definir un bloque como la **unidad mínima** de contenido de un página. Por ejemplo, un parágrafo, una imagen, un video, etc.
+*   Podríamos definir un bloque como la **unidad mínima** de contenido de una página. Por ejemplo, un parágrafo, una imagen, un video, etc.
 *   Otra forma de definir los bloques sería decir que son el **sistema de Lego de Notion**, permitiéndonos combinaciones casi infinitas. Nuestra imaginación es el límite.
 
 ![Blocks](../images/Blocks.png "Blocks")
@@ -97,7 +97,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
     ![Database Tipos](../images/databases-tipos.png "Database Tipos")
 
-*   Un database puede tener diferente tipos de vistas, es decir podemos transformar una de tipo Lista en una de tipo Gallery.
+*   Un database puede tener diferentes tipos de vistas, es decir, podemos transformar una de tipo Lista en una de tipo Gallery.
 
     ![List To Gallery](../images/listToGallery.gif "List to Gallery")
 
@@ -111,7 +111,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
 ![Database Template Detalle](../images/database-template-detalle.png "Database Template Detalle")
 
-*   Una vez definido el formato de un database, si queremos prevenir que nadie más lo cambie podemos bloquear dicho database.
+*   Una vez definido el formato de un database, si queremos prevenir que nadie más lo cambie, podemos bloquear dicho database.
 
 ![Lock database](../images/lock-database.gif "Lock Database")
 
@@ -119,7 +119,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
 ![Relation](../images/relation.png "Relation")
 
-*   Además de poder linkar información de dos databases, podemos mostrar información de un database en una columna de otra database, por medio de la propiedad **rollup.** Una vez linkeadas ambas databases, haciendo uso de la propiedad **rollup** podemos seleccionar qué propiedad de un database mostrar en una columna del otro database.
+*   Además de poder linkar información de dos databases, podemos mostrar información de un database en una columna de otra database, por medio de la propiedad **rollup.** Una vez linkeadas ambas databases, haciendo uso de la propiedad **rollup**, podemos seleccionar qué propiedad de un database mostrar en una columna del otro database.
 
 ![Rollup Column](../images/rollup-column.png "Rollup Column")
 
@@ -128,12 +128,12 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 ### Templates
 
 *   Es común que después de estar un rato combinando bloques, necesitemos reutilizar el mismo formato en otra página. Los **templates** nos permitirán esencialmente hacer uso de dicho formato tantas veces como nos sea necesario.
-*   Podemos en nuestras páginas replicar contenido de forma sencilla por medio de los **Template Buttons.** Seleccionando desde el listado de bloques las opción de **Template button.** Pudiendo incluso duplicar el formato de una página completa con un solo click.
+*   Podemos en nuestras páginas replicar contenido de forma sencilla por medio de los **Template Buttons.** Seleccionando desde el listado de bloques la opción de **Template button.** Pudiendo incluso duplicar el formato de una página completa con un solo click.
 
 ![Template-button](../images/Template-button.png "Template-button")
 
 *   Más información sobre las Template Buttons: <a href="https://www.notion.so/Create-your-own-templates-5c033c12ac3b4c1fb4703491be74550d" target="_blank">Create your own templates</a>
-*   Por otro lado, la mayoría de las databases tienen contenido del mismo tipo que necesitamos reutilizar constantemente como os comentaba en el apartado anterior.  Para poder reproducir este contenido una y otra vez de manera sencilla podemos hacer uso de las **Database Templates.**
+*   Por otro lado, la mayoría de las databases tienen contenido del mismo tipo que necesitamos reutilizar constantemente como os comentaba en el apartado anterior. Para poder reproducir este contenido una y otra vez de manera sencilla podemos hacer uso de las **Database Templates.**
 
 ![Database Template Detalle](../images/database-template-detalle.png "Database Template Detalle")
 
@@ -144,7 +144,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
 *   Listado completo de templates: <a href="https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d" target="_blank">Notion Template Gallery</a>
 *   Otra opción que nos brinda Notion es poder hacer pública alguna de nuestras páginas para que otro usuario pueda duplicar dicha página en su workspace. Más información sobre la publicación de páginas: <a href="https://www.notion.so/Public-pages-web-publishing-9a1cbda1c1b5438390b93a7ee0f481ae" target="_blank">Public pages & web publishing</a>
-*   Basado en esta idea existe un página web donde la comunidad sube su páginas para que las podamos usar a modo de plantilla duplicando la página en nuestro workspace: <a href="https://notionpages.com/" target="_blank">Notion Pages ⚡️</a>
+*   Basado en esta idea, existe una página web donde la comunidad sube sus páginas para que las podamos usar a modo de plantilla, duplicando la página en nuestro workspace: <a href="https://notionpages.com/" target="_blank">Notion Pages ⚡️</a>
 
 ![share_page](../images/share_page.png "share_page")
 
@@ -154,7 +154,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
 ![add-member](../images/add-member.png "add-member")
 
-*   Otra forma de colaboración en Notion es compartiendo alguna de nuestras páginas o databases, pudiendo incluso hacer un página pública. Una vez compartida una página podemos gestionar los permisos sobre dicha página.
+*   Otra forma de colaboración en Notion es compartiendo alguna de nuestras páginas o databases, pudiendo incluso hacer una página pública. Una vez compartida una página podemos gestionar los permisos sobre dicha página.
 *   Las páginas las podemos compartir de forma individual o crear grupos dependiendo según la necesidad.
 
 ![sharing](../images/sharing.png "sharing")
@@ -174,7 +174,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 
 ### Varios
 
-*   Notion cuenta con app para escritorio, Mac y Windows así como versión móvil para iOs y Android.
+*   Notion cuenta con app para escritorio, Mac y Windows así como versión móvil para iOS y Android.
 *   Tanto en versión móvil como desktop podemos salvar contenido de internet directamente en alguna de las páginas de nuestro workspace. Para la versión desktop contamos con un add-on para las versiones de navegador Chrome y Firefox. Más información: <a href="https://www.notion.so/Web-Clipper-ba54b19ecaeb466b8070b9e683c5fce1" target="_blank">Web Clipper</a>.
 *   Notion nos permite conectar aplicaciones de terceros, incluso facilitando el volcado de información de otras aplicaciones con Trello, Asana, Evernote…
 *   Notion tiene un plan gratuito que nos permite 1000 bloques por cada workspace. Yo estoy haciendo uso tanto para temas personales y laborales y no he necesitado de momento hacer el upgrade a la versión de pago, que por otro lado tiene un precio muy razonable de 4$ al mes.
@@ -182,7 +182,7 @@ En mi caso como os comentaba, he dejado de usar de forma paulatina en beneficio 
 ### Mejoras y opinión personal
 
 *   Después de unos meses usando Notion, creo que todavía tiene mucho margen de mejora, pero siendo honesto el equipo de Notion está haciendo un gran trabajo.
-*   Echo de menos cosas como un sistema de scripting que me permita programar cosas o una API pública que pueda usar y me de flexibilidad para incluirlo en otras herramientas o automatizar flows dentro de la herramienta.
+*   Echo de menos cosas como un sistema de scripting que me permita programar cosas o una API pública que pueda usar y me dé flexibilidad para incluirlo en otras herramientas o automatizar flows dentro de la herramienta.
 *   También creo que tienen cosas por mejorar, como es la experiencia de la aplicaciones desktop y nativas, así como el rendimiento de la aplicación en general, a veces los tiempos de respuesta no son buenos.
 *   Y algo que echo mucho de menos ahora que tengo más contenido es un buen buscador, el actual no indexa bien el contenido y dejar de tener sentido encontrar información por medio del buscador.
 
@@ -212,7 +212,7 @@ Estos son algunos de los usos más comunes de Notion, os dejo por aquí el link 
 
 Antes de terminar quería aprovechar para compartir alguno de los usos que hago de Notion en mi día a día y en particular en mi actual empresa.
 
-Hace unos días compartía un post sobre como es el <a href="https://xala3pa.github.io/blog/onboarding/" target="_blank">Onboarding</a> que estamos construyendo en Lookiero y comentaba que una de las herramientas que usamos para ello es Notion. 
+Hace unos días compartía un post sobre cómo es el <a href="https://xala3pa.github.io/blog/onboarding/" target="_blank">Onboarding</a> que estamos construyendo en Lookiero y comentaba que una de las herramientas que usamos para ello es Notion. 
 
 ![onboarding](../images/onboarding.png "onboarding")
 
@@ -230,6 +230,6 @@ Para cada uno de los OKRs, internamente tengo una tabla donde defino el Objetivo
 
 Espero que si has llegado hasta aquí te haya resultado útil el post, como os comentaba Notion es una herramienta muy flexible de modo que encontrarás alguna manera de que encaje en tu día a día sin problemas. 
 
-Si te ha gustado el post por favor compártelo para que le puede llegar a más gente. ¡Muchas gracias!
+Si te ha gustado el post por favor compártelo para que le pueda llegar a más gente. ¡Muchas gracias!
 
 <BR>
