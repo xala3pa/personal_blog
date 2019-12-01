@@ -2,7 +2,7 @@
 author = "Álvaro Salazar"
 categories = ["manager","teams", "tools"]
 date = "2019-11-30"
-description = "SMART"
+description = "Set your goals!"
 featured = "marten-bjork-rH8O0FHFpfw-unsplash.jpg"
 featuredalt = "Set your goals!"
 featuredpath = "date"
