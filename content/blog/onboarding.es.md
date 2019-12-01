@@ -2,7 +2,7 @@
 author = "Álvaro Salazar"
 categories = ["manager","teams", "tools"]
 date = "2019-10-18"
-description = "Como hacer que tus empleados se sientan bienvenidos"
+description = "Cómo hacer que tus empleados se sientan bienvenidos"
 featured = "belinda-fewings-6wAGwpsXHE0-unsplash.jpg"
 featuredalt = "Onbarding"
 featuredpath = "date"
