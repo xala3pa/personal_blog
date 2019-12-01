@@ -23,7 +23,7 @@ Se acerca el final del año y es justo este el momento de hacer retrospectiva de
 Quiero escribir una pequeña serie de posts sobre herramientas o frameworks que sirven como guía o ayuda a la hora de definir objetivos, como son:
 
 *   OKRs
-*   SMART
+*   <a href="https://xala3pa.github.io/blog/smart/" target="_blank">SMART</a>
 *   V2MOM
 
 Hay cantidad de <a href="https://www.researchgate.net/publication/11152729_Building_a_practically_useful_theory_of_goal_setting_and_task_motivation_A_35-year_odyssey_American_Psychologist_579_705-717" target="_blank">estudios</a> que demuestran que estar comprometidos con un objetivo puede ayudar a incrementar el rendimiento de los empleados. Pero más específicamente, lo que revelan estas investigaciones es que establecer objetivos específicos y ambiciosos mejora aún más el compromiso de los empleados con dichos objetivos.
