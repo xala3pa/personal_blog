@@ -24,7 +24,7 @@ Os dejo por aquí el listado de los frameworks que comentaremos durante toda la 
 
 *   <a href="https://xala3pa.github.io/blog/okrs/" target="_blank">OKRs</a>
 *   SMART
-*   V2MOM
+*   <a href="https://xala3pa.github.io/blog/v2mom/" target="_blank">V2MOM</a>
 
 En este caso nos vamos a centrar en **SMART**, acrónimo formado a partir de:
 
